@@ -13,4 +13,7 @@ public class container {
     private String dataEntregaPorto;
     private String dataSaidaPorto;
     private navio_porta_container navio;
+    private String destino;
+    private String origem;
 }
+
